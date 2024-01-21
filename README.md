@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zzimamit7
+- 👋 Hi, I’m Amit Kumar Chaudhary
 - 👀 I’m interested in coding and development 
-- 🌱 I’m currently learning BTech from LNCT Group of College 
+- 🌱 I’m currently pursuing B-Tech from LNCT Group of College 
 - 💞️ I’m looking to collaborate on your Project 
 
 <!---
